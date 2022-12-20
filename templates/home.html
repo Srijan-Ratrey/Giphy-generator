@@ -1,0 +1,38 @@
+{% extends "base.html" %}
+
+{% block content %}
+  {% if gifs %}
+    <section class="hero">
+      <h1>Search Results</h1>
+      <p>Showing results for "{{ query }}":</p>
+      <div class="grid">
+        {% for gif in gifs %}
+          <div class="card">
+            <img src="{{ gif.images.downsized.url }}" alt="{{ gif.title }}">
+            <h2>{{ gif.title }}</h2>
+          </div>
+        {% endfor %}
+      </div>
+      <section class="hero">
+        <form action="/search" method="get">
+          <label for="query">Search Giphy:</label>
+          <input type="text" id="query" name="query" placeholder="Enter a search term">
+          <button type="submit">Search</button>
+        </form>
+      </section>
+    </section>
+  {% else %}
+    <section class="hero">
+      <form action="/search" method="get">
+        <label for="query">Search Giphy:</label>
+        <input type="text" id="query" name="query" placeholder="Enter a search term">
+        <button type="submit">Search</button>
+      </form>
+    </section>
+  {% endif %}
+  <section class="home">
+    <h1>My Website</h1>
+    <p>I am a software engineer with a passion for building websites and applications. I have experience with a variety of programming languages and frameworks, including Python, Flask, HTML, CSS, and JavaScript. I am always looking for new challenges and opportunities to learn and grow as a developer.</p>
+  </section>
+  
+{% endblock %}
