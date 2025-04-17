@@ -26,15 +26,13 @@ Giphy Generator is a fun and interactive web application that allows users to se
    ```bash
    git clone https://github.com/Srijan-Ratrey/Giphy-generator.git
    cd Giphy-generator
-  ```
-
+   ```
 
 2. **Open `index.html` in your browser:**
 
    ```bash
    open index.html
-  ```
-
+   ```
 
    *Alternatively, you can right-click on `index.html` and select "Open with" followed by your preferred browser.*
 
