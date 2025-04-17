@@ -36,18 +36,18 @@ Giphy Generator is a fun and interactive web application that allows users to se
   ```
 
 
-   *Alternatively, you can right-click on `index.html` and select "Open with" followed by your preferred browser.*
+   *Alternatively, you can right-click on `index.html` and select "Open with" followed by your preferred browser.*
 
 ---
 
 ## ⚙️ Usage
 
 1. **Search for GIFs:*
-   - Type a keyword into the search bar.
-   - Click the "Search" button to fetch and display relevant GIFs.
+   - Type a keyword into the search bar.
+   - Click the "Search" button to fetch and display relevant GIFs.
 
 2. **View Random GIFs:*
-   - Click the "Random" button to display a random GIF.
+   - Click the "Random" button to display a random GIF.
 
 ---
 
