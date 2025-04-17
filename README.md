@@ -5,9 +5,9 @@ Giphy Generator is a fun and interactive web application that allows users to se
 
 ## 🚀 Features
 
-- 🔍 **Search GIFs*: Enter any keyword to fetch related GIFs from Giphy.
-- 🎲 **Random GIFs*: Get a random GIF to surprise and entertain.
-- 🎨 **Responsive Design**: Enjoy a seamless experience across devices.
+- 🔍 **Search GIFs*: Enter any keyword to fetch related GIFs from Giphy.
+- 🎲 **Random GIFs*: Get a random GIF to surprise and entertain.
+- 🎨 **Responsive Design**: Enjoy a seamless experience across devices.
 
 ---
 
@@ -53,9 +53,9 @@ Giphy Generator is a fun and interactive web application that allows users to se
 
 ## 🔧 Technologies sed
 
-- *HTM5**
-- *CS3**
-- **JavaScript(ES)**
-- **Giphy API**
+- *HTM5**
+- *CS3**
+- **JavaScript(ES)**
+- **Giphy API**
 
 ---
