@@ -53,9 +53,9 @@ Giphy Generator is a fun and interactive web application that allows users to se
 
 ## 🔧 Technologies sed
 
-- *HTM5**
-- *CS3**
-- **JavaScript(ES)**
-- **Giphy API**
+- **HTM5**
+- **CS3**
+- **JavaScript(ES)**
+- **Giphy API**
 
 ---
