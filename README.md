@@ -1,13 +1,13 @@
 # 🎉 Giphy Generator
-Giphy Generator is a fun and interactive web application that allows users to search for and display GIFs using the Giphy APIBuilt with HTML, CSS, and JavaScript, this project demonstrates how to integrate third-party APIs to create dynamic and engaging user experiences
+Giphy Generator is a fun and interactive web application that allows users to search for and display GIFs using the Giphy API Built with HTML, CSS, and JavaScript, this project demonstrates how to integrate third-party APIs to create dynamic and engaging user experiences 
 
 ---
 
 ## 🚀 Features
 
-- 🔍 **Search GIFs*: Enter any keyword to fetch related GIFs from Giphy.
-- 🎲 **Random GIFs*: Get a random GIF to surprise and entertain.
-- 🎨 **Responsive Design**: Enjoy a seamless experience across devices.
+- 🔍 **Search GIFs*: Enter any keyword to fetch related GIFs from Giphy.
+- 🎲 **Random GIFs*: Get a random GIF to surprise and entertain.
+- 🎨 **Responsive Design**: Enjoy a seamless experience across devices.
 
 ---
 
@@ -15,7 +15,7 @@
 
 ![Demo](demo.gf)
 
-*A glimpse of the Giphy Generator in action.*
+*A glimpse of the Giphy Generator in action.*
 
 ---
 
